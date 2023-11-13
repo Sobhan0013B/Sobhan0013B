@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Sobhan Radi</h1>
 <h3 align="center">A Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sobhan0013b&label=Profile%20views&color=0e75b6&style=flat" alt="sobhan0013b" /> </p>
 
 - 🔭 I’m currently working on **ARTICODE**
 
-- 🌱 I’m currently learning **C# & Note.js**
+- 🌱 I’m currently learning **NEXT js & Note.js & React & PWA**
 
 - 📫 How to reach me **mohammedsobhanradi@gmail.com**
 
